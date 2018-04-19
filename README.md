@@ -138,3 +138,6 @@ REST_FRAMEWORK = {
     - 类， 必须继承：SimpleRateThrottle，实现：get_cache_key，scope='luccy'(配置文件中的key)
 
 - 全局应用和局部应用
+
+
+[节流的详细解析](https://yuansuixin.github.io/archives/2018/01/ "节流的详细解析")
